@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <form action="/update?_method=PUT" method="post">
+<div class= "form-group">
+        <label>id</label>
+        <input type="hidden" name="_method" value="PUT">
+        <input type ="text" class = "form-control" name = "id"  placeholder="id">
+        <input type ="text" class = "form-control" name = "name"  placeholder="name">
+        <input type ="text" class = "form-control" name = "phone"  placeholder="phone">
+        <button type="submit">Submit</button>
+</div>
+</form>
+        <p>{{data}}</p>
+    </body>
+</html>
