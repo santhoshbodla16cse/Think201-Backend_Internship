@@ -23,3 +23,4 @@ This page should show details of the single student. Should have an edit option 
 
 Test
                   ![image](https://user-images.githubusercontent.com/54767304/166620808-fbe7a8c7-9505-407a-bff4-b7c3dbcee8dd.png)
+![image](https://user-images.githubusercontent.com/54767304/166621000-de2124d5-2bae-4d45-b70f-5f2a857d089a.png)
