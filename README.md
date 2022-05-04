@@ -19,3 +19,7 @@ This page should show the list of students added with all details entered. This 
 
 Single Student Page
 This page should show details of the single student. Should have an edit option as well.
+
+
+Test
+![image](https://user-images.githubusercontent.com/54767304/166620808-fbe7a8c7-9505-407a-bff4-b7c3dbcee8dd.png)
